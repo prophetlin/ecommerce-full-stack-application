@@ -17,3 +17,15 @@ header a {
   font-weight: bold;
   text-decoration: none;
 }
+
+.products {
+  display: flex;
+}
+
+.products {
+  border: 1px #404040 solid;
+}
+
+.products img {
+  image: 100%;
+}
